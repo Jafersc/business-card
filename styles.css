@@ -1,0 +1,31 @@
+body{
+    margin: 20px;
+ 
+   
+
+
+}
+
+.pic{
+    width: 150px;
+
+}
+ 
+.card{
+    width: 400px;
+   margin: 0 auto;
+   justify-content: space-around;
+    display: flex;
+    padding: 20px;
+    text-align: center;
+    border: none;
+    border-bottom: 3px solid lightcoral;
+    
+}
+
+.border-blue{
+    
+
+background-color:beige;
+}
+
